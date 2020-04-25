@@ -3,10 +3,12 @@ Android Persian Calendar [![Build Status](https://travis-ci.org/ebraminio/DroidP
 <div lang="fa" dir="rtl">تقویم فارسی اندروید<br />
      این برنامه به صورت رایگان و متن‌باز نوشته شده‌است و سورس کد اصلی آن را می‌توانید از https://github.com/persian-calendar/DroidPersianCalendar دریافت کنید.
     
+    
 سورس نسخه اصلی برنامه
 https://github.com/persian-calendar/DroidPersianCalendar
 
-توضیحات سورس نسخه ویرایش شده:
+
+سورس نسخه ویرایش شده:
 https://github.com/reismali/PersianCalendare
  
 مجوز شرایط استفاده از کد برنامه
